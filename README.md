@@ -1,6 +1,8 @@
 # Machine Learning
 ## Introduction
 This repository is for **Machine Learning**  ,mainly my lecture notes or codes  
+<<Still writing down README.md>>  
+Markdown files will be uploaded in my blog in future
 
 ## Before Starting..
 
