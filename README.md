@@ -1,5 +1,4 @@
 # Machine Learning
-## Introduction
 This repository is for **Machine Learning** ,mainly for lecture notes or codes  
 
 ## Before Starting..
