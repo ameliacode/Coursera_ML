@@ -1,6 +1,6 @@
-# Machine Learning
+## Machine Learning | Certified course
 This repository is for **Machine Learning** ,mainly for lecture notes or codes   
 
-## Index
-* Assignments
-* Lecture notes
+### Index
+* Assignments - programming assignments
+* Lecture notes - pdfs, my note
