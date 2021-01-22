@@ -1,4 +1,4 @@
-## Machine Learning | Certified course
+## Machine Learning | certified
 This repository is for **Machine Learning** ,mainly for lecture notes or codes   
 
 ### Index
